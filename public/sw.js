@@ -35,7 +35,6 @@ const APP_SHELL_INMUTABLE = [
     'https://cdn.jsdelivr.net/npm/pouchdb@7.0.0/dist/pouchdb.min.js',
     'https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css',
     'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css'
-    'https://memory-production.up.railway.app/js/libs/plugins/mdtoast.min.css',
 ];
 
 
