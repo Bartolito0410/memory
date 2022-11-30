@@ -1,6 +1,6 @@
 
 var url = window.location.href;
-var swLocation = '/memory/sw.js';
+var swLocation = 'https://memory-production.up.railway.app/sw.js';
 
 var swReg;
 
