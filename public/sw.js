@@ -34,7 +34,20 @@ const APP_SHELL_INMUTABLE = [
     'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js',
     'https://cdn.jsdelivr.net/npm/pouchdb@7.0.0/dist/pouchdb.min.js',
     'https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css',
-    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css'
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.css',
+    'index.html',
+    'css/style.css',
+    'img/favicon.ico',
+    'img/avatars/1.jpg',
+    'img/avatars/2.jpg',
+    'img/avatars/3.jpg',
+    'img/avatars/4.jpg',
+    'img/avatars/iconomas.png',
+    'js/app.js',
+    'js/camara-class.js',
+    'js/sw-utils.js',
+    'js/libs/plugins/mdtoast.min.js',
+    'js/libs/plugins/mdtoast.min.css'
 ];
 
 
